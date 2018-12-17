@@ -1,0 +1,13 @@
+[RankID],[Rank],[Description],[Composure],[Min],[Max]
+Rank01,Rookie,Trainee,2,1,10
+Rank02,Soldier,Qualified,3,11,20
+Rank03,General,Leader,4,21,35
+Rank04,Elite,Special,5,36,45
+Rank05,Baron,Overseer,6,46,65
+Rank06,Knight,Guardian,7,66,75
+Rank07,Collosal,Master,8,76,85
+Rank08,Imperial,Master General,9,86,99
+Rank09,Esqudiates,Valadreens,10,100,119
+Rank10,Paladin,Upper Valadreens,10,120,159
+Rank11,Executive,Extreme Valedreens,10,160,199
+Rank12,Arch Angjreal,Omni Valedreens,10,200,350

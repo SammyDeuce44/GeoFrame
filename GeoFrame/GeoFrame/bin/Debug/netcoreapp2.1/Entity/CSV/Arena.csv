@@ -1,0 +1,12 @@
+[ID],[Name],[Description],[ArenaTypeID],[Capacity],[MediaId]
+Arena01,Stadium1,,ArenaType1,200,Media1
+Arena02,Stadium1,,ArenaType1,10000,Media1
+Arena03,Stadium1,,ArenaType1,15000,Media2
+Arena04,Stadium1,,ArenaType1,27484,Media2
+Arena05,Stadium1,,ArenaType1,64353,Media3
+Arena06,Stadium1,,ArenaType1,84232,Media3
+Arena07,Stadium1,,ArenaType1,94232,Media3
+Arena08,Stadium1,,ArenaType1,95347,Media3
+Arena09,Stadium1,,ArenaType1,153643,Media4
+Arena10,Stadium1,,ArenaType1,173723,Media4
+Arena11,Stadium1,,ArenaType1,242378,Media4

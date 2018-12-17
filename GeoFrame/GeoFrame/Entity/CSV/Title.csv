@@ -1,0 +1,48 @@
+[TitleID],[Title],[Segment],[Description]
+Title001,Ruler,Monarch,King or Queen of a nation.
+Title002,RoyalHouse,Monarch,Bloodline to the King or Queen of the nation.
+Title003,Duke (Lynstra),Monarch,Lynstra meaning to be King or next in line to the throne. The King candidates must then contest for the Throne. A Lynstra is appointed by the Kings Committee (High Noble, Chief Advisor and Lynstra). For Rivelia the Lynstra's rule a sector.
+Title004,Chief Advisor,Monarch,Close advisors to the Ruler. They control internal affairs in the Kingdom.
+Title005,Covet Missions,Monarch,They undertake special missions for the Ruler of the nation.
+Title006,King Guard,Monarch,
+Title007,RoyalGuard,Monarch,
+Title008,High Noble,Monarch,Highest form of the nobility social class. Awarded special privileges. They govern 3 zones within Rivelia
+Title009,Elder,Monarch,
+Title010,Noble,Monarch,Second highest form of the nobility social class. Awarded some privilieges. They govern 1 zone within Rivelia
+Title011,Lord/Lady,Monarch,
+Title012,Baron,Monarch,
+Title013,Minister,Monarch,
+Title014,Vice Cadet,Military,
+Title015,Cadet,Military,
+Title016,Vice Lieutenant,Military,
+Title017,Lieutenant,Military,
+Title018,Captain,Military,
+Title019,Major,Military,
+Title020,Colonel ,Military,
+Title021,Vice-Admiral,Military,
+Title022,Admiral,Military,
+Title023,General,Military,In charge of the nations army.
+Title024,Mercenary1star,Mercenary,
+Title025,Mercenary2star,Mercenary,
+Title026,Mercenary3star,Mercenary,
+Title027,Mercenary4star,Mercenary,
+Title028,Mercenary5star,Mercenary,
+Title029,MercenaryMostWanted,Mercenary,
+Title030,GeneralMedicalOfficer,MedicCorp,
+Title031,MedicalOfficer,MedicCorp,
+Title032,Physician,MedicCorp,
+Title033,MedicIntern,MedicCorp,
+Title034,Scientist,NationalAsset,
+Title035,Researcher,NationalAsset,
+Title036,NPC,NonPlaybaleCharacter,
+Title037,Bronze Guard,Protector,
+Title038,Silver Guard,Protector,
+Title039,Golden Guard,Protector,
+Title040,Halo Guard,Protector,
+Title041,Guard,Protector,
+Title042,Security,Protector,
+Title043,Space Pirate,Outlaw,
+Title044,Exiled,Outlaw,
+Title045,Spy,Spy,
+Title046,Gadalix Corp,Non,
+Title047,Survivor,Survivor from the …,

@@ -1,0 +1,303 @@
+[CharacterID],[ProfileMapId],[FirstName],[LastName],[Codename],[Gender],[Age],[DOB_Day],[DOB_Month],[DOB_Year],[Height],[NationalityId],[RaceId],[Timeline],[TitleId],[ArchetypeId],[TeamId],[Description]
+CHR0001,PR0001,Dominic,Zotts,,Male,24,12,8,1993,185 cm,Nation01,Race01,Present,,Neutral,Team07,Non
+CHR0002,PR0002,Jett,Mishkan,,Male,24,21,5,1993,190 cm,Nation01,Race01,Present,,Neutral,Team07,Non
+CHR0003,PR0003,John,Bishop,,Male,32,30,5,1985,174 cm,Nation01,Race01,Present,,Good,,Non
+CHR0004,PR0004,James,Pitzle,,Male,43,4,12,1974,181 cm,Nation01,Race02,Present,,Neutral,Team04,Non
+CHR0005,PR0005,Senheiser,Toggar,,Male,31,31,2,1986,182 cm,Nation01,Race03,Present,Mercenary5star,Neutral,Team02,Member of Team BattleRoque.
+CHR0006,PR0006,Durell,Sterling,,Male,10,3,8,2007,177 cm,Nation01,Race03,Present,,Good,,Non
+CHR0007,PR0007,Riley,Rayjay,,Male,31,15,8,1986,182 cm,Nation01,Race01,Present,Mercenary5star,Neutral,Team06,Team Hunter. 2nd in Command. Melee attacker
+CHR0008,PR0008,Tank,Muscang,,Male,28,28,4,1989,170 cm,Nation01,Race01,Present,Mercenary5star,Neutral,Team06,Leader of Hunter. Outlaw group causing small issues. Sniper
+CHR0009,PR0009,Calanus,Alvaete,,Male,33,3,3,1984,171 cm,Nation01,Race01,Present,Mercenary5star,Neutral,Team02,Leader of Team BattleRoque
+CHR0010,PR0010,Adanna,Marriot,,Female,29,14,3,1988,173 cm,Nation01,Race01,Present,Mercenary5star,Neutral,Team06,Team Hunter. Tanks Girlfriend. Getaway Pilot
+CHR0011,PR0011,Ethan,Caleb,,Male,35,8,5,1982,170 cm,Nation01,Race01,Present,Mercenary5star,Neutral,Team02,Member of Team BattleRoque.
+CHR0012,PR0012,Jarah,Kovante,,Male,31,15,1,1986,183 cm,Nation01,Race01,Present,Mercenary5star,Neutral,Team06,Team Hunter. Machine of the Group. Defence and Detonator
+CHR0013,PR0013,Cadel,Venhought,,Male,21,21,3,1996,174 cm,Nation02,Race01,Present,Student,Good,,Main protagonist of the series. Wields the eye of Taurus. Student at Elfinheim Corp
+CHR0014,PR0014,Almiron,Raheem,,Male,22,23,6,1995,155 cm,Nation02,Race01,Present,Student,Good,,Student at Elfinheim Corp
+CHR0015,PR0015,Kayathleen,Remington,,Female,21,24,4,1996,146 cm,Nation02,Race01,Present,Student,Good,,Riverlia's VemoMaximou Cadet. Student at Elfinheim Corp
+CHR0016,PR0016,Neeva,Cyrano,,Male,21,27,6,1996,141 cm,Nation02,Race01,Present,Student,Good,,Student at Elfinheim Corp
+CHR0017,PR0017,Jayden,Edin,,Male,22,6,2,1995,158 cm,Nation02,Race01,Present,Student,Good,,Student at Elfinheim Corp
+CHR0018,PR0018,Carmin,Stratford,,Female,22,9,1,1995,175 cm,Nation02,Race01,Present,Student,Good,,Student at Elfinheim Corp
+CHR0019,PR0019,Alieallia,Cosarates,,Female,21,28,5,1996,151 cm,Nation02,Race01,Present,Student,Good,Team13,House Cosarates (Vessel). Student at Elfinheim Corp
+CHR0020,PR0020,Hatem,Denzel,,Male,22,4,3,1995,156 cm,Nation02,Race01,Present,Student,Good,,Student at Elfinheim Corp
+CHR0021,PR0021,Zenoht,Bridge,,Male,21,16,8,1996,180 cm,Nation02,Race01,Present,Student,Good,,Elfinheim's DecimoMaximou Cadet. Student at Elfinheim Corp
+CHR0022,PR0022,Kailaas,Ravenshaw,,Female,21,3,5,1996,153 cm,Nation02,Race02,Present,Student,Good,Team13,House Cosarates (Vessel). Student at Elfinheim Corp
+CHR0023,PR0023,Oraih,Thames,,Female,21,25,7,1996,150 cm,Nation02,Race01,Present,Student,Good,,Student at Elfinheim Corp
+CHR0024,PR0024,Rochelle,Arslan,,Female,21,31,3,1996,164 cm,Nation02,Race01,Present,Student,Good,,Student at Elfinheim Corp
+CHR0025,PR0025,Gaddal,Bridge,,Male,22,20,5,1995,166 cm,Nation02,Race01,Present,Student,Good,,Student at Elfinheim Corp
+CHR0026,PR0026,Ges Valon,Cavallieri,,Male,18,10,8,1999,168 cm,Nation02,Race01,Present,Student,Good,Team18,Leoverdes younger brother. Impatient and active. Gets into lots of trouble and always gets told by his older brother
+CHR0027,PR0027,Sedrick III,Aidleigh,,Male,51,5,9,1966,182 cm,Nation02,Race01,Present,Ruler,Good,,Current King of Rivelia. Establishging the Kindgom his Father King Vastien forsaw. 
+CHR0028,PR0028,Katrea,Aidleigh,,Female,45,25,10,1972,176 cm,Nation02,Race01,Present,RoyalHouse,Good,,Wife of Kind Sedrick. She is of Royal blood and her maiden name is Dhronning. She possesses the will of the Wind and formerly the Wind XXX
+CHR0029,PR0029,Helenny,Aidleigh,,Female,20,24,6,1997,174 cm,Nation02,Race07,Present,RoyalHouse,Good,,Daughter of King Sedrick. She is also a Yommine of Wind
+CHR0030,PR0030,Jordan,Aidleigh,,Male,26,25,5,1991,184 cm,Nation02,Race01,Present,Duke (Lynstra),Good,Team05,Son of King Sedrick. Unseen Lynstra of the Capital and percieved to have died by the last attack of the King od Edoma. He acts as a mole in the Edoman Army
+CHR0031,PR0031,Navoly,Ramitts,,Male,73,27,2,1944,193 cm,Nation02,Race01,Present,Chief Advisor,Good,,Chief Advisor of King Sedrick
+CHR0032,PR0032,Yohden,Mazekow,,Male,67,13,10,1950,171 cm,Nation02,Race01,Present,Chief Advisor,Good,,Chief Advisor of King Sedrick
+CHR0033,PR0033,Gorvelich,Augutz,,Male,64,27,7,1953,185 cm,Nation02,Race01,Present,Chief Advisor,Good,,Chief Advisor of King Sedrick
+CHR0034,PR0034,Axel,Solidor,,Male,30,6,8,1987,175 cm,Nation02,Race01,Present,Duke (Lynstra),Good,,Lynstra of South and West Rivelia. Jordans friend and 1 of the 8 people to know he is alive
+CHR0035,PR0035,Marsden,Nekareen,,Male,31,1,10,1986,180 cm,Nation02,Race01,Present,Duke (Lynstra),Good,,Lynstra of North and East Rivelia. He has been asked to marry Maelinn but is committed to his duty.
+CHR0036,PR0036,Dixy,Laskaris,,Male,37,27,9,1980,185 cm,Nation02,Race01,Present,General,Good,,General of the Space Army Force
+CHR0037,PR0037,Cean,Wintedor,,Female,31,31,3,1986,148 cm,Nation02,Race01,Present,General,Good,,General of the Medic Army Force
+CHR0038,PR0038,Hildad,Barathione,,Male,33,28,9,1984,190 cm,Nation02,Race01,Present,General,Good,,General of the Land Army Force
+CHR0039,PR0039,Auren,Klauss,,Male,43,4,3,1974,175 cm,Nation02,Race01,Present,General,Good,,House Klauss. General of Maritime Army Force
+CHR0040,PR0040,Sayeahra,Venhought,,Female,42,10,10,1975,148 cm,Nation02,Race01,Present,Covet Missions,Good,,House (Maiden) Loughton. Cadel's Mom. Was orignially Sedrick's lover but due to not being of Royal descent was barred from marrying him. Later married Christopher whom she fell in love with after returning from a mission. She stayed with Chris and Cadel for 5 years before going back on missions.
+CHR0041,PR0041,Isabelle,Cornaro,,Female,39,16,1,1978,169 cm,Nation02,Race01,Present,High Noble,Good,,House Cornaro (Wealth Aristocrat). Governor of Central Rivelia
+CHR0042,PR0042,Balthier,Deonaga,,Male,38,15,4,1979,184 cm,Nation02,Race01,Present,High Noble,Good,,House Deonaga. Governor of Northeast Rivelia
+CHR0043,PR0043,Kamia,Solidor,,Female,35,19,9,1982,157 cm,Nation02,Race01,Present,High Noble,Good,,House Solidor. Governor of Northwest Rivelia
+CHR0044,PR0044,Luchrious,Deonaga,,Male,34,7,11,1983,170 cm,Nation02,Race01,Present,Noble,Good,,House Deonaga. Cousin to Balthier
+CHR0045,PR0045,Nivokus,Persie,,Male,36,2,2,1981,187 cm,Nation02,Race01,Present,High Noble,Good,,House Persie. From the House Fringman. Governor of Southeast Rivelia
+CHR0046,PR0046,Charmaine,Henkworth,,Female,23,1,4,1994,168 cm,Nation02,Race01,Present,High Noble,Good,,House Henkworth (Maiden: Dhronning). Governor of Southwest Rivelia. Her father died leaving her to inherit his domain and making her the youngest governor.
+CHR0047,PR0047,Maelinn,Cosarates,,Female,27,29,11,1990,144 cm,Nation02,Race02,Present,Noble,Good,Team13,House Cosarates. Exiled 2nd Princess of State in Pillas. Her sister (1st Princess) was captured and after a failed rescue mission was killed. She escaped with a few 50 members (12 warriors) of her clan and sought solace upon reaching Rivelia. She took and Oath and a place in the East for her and her people was created. She has been asked to consider marrying Marsden and was made a Noble
+CHR0048,PR0048,Commodior,Peters,,Male,41,26,1,1976,192 cm,Nation02,Race01,Present,Noble,Good,,Non
+CHR0049,PR0049,Leoverdes,Cavallieri,,Male,25,31,4,1992,182 cm,Nation02,Race01,Present,,Good,Team18,Son of Rav Sorcedelle, the Exiled. Had to overcome the public humiliation to retake his House's seat. known to be cold yet delicate and deadly.
+CHR0050,PR0050,Mozeo,Larding,,Male,43,30,6,1974,192 cm,Nation02,Race01,Present,,Good,Team18,House Cavallieri (Vessel)
+CHR0051,PR0051,Sylvia,Rabiolli,,Female,28,20,1,1989,140 cm,Nation02,Race01,Present,,Good,Team18,House Cavallieri (Vessel)
+CHR0052,PR0052,Donna,Samuels,,Female,29,7,2,1988,157 cm,Nation02,Race01,Present,,Good,,Non
+CHR0053,PR0053,Korreal,Minosay,,Male,35,29,12,1982,180 cm,Nation02,Race01,Present,,Good,,House Minosay
+CHR0054,PR0054,Laydhin,DaSilva,,Male,38,8,11,1979,180 cm,Nation02,Race01,Present,,Good,,House Minosay (Vessel)
+CHR0055,PR0055,Villazen,Hatem,,Male,37,1,3,1980,176 cm,Nation02,Race01,Present,,Good,,House Minosay (Vessel)
+CHR0056,PR0056,Minoa,Davis,,Female,30,28,7,1987,174 cm,Nation02,Race01,Present,,Good,,Non
+CHR0057,PR0057,Ethenel,Bridge,,Male,29,28,5,1988,190 cm,Nation02,Race01,Present,,Good,,Non
+CHR0058,PR0058,Andrea,Sparkton,,Female,26,2,9,1991,175 cm,Nation02,Race01,Present,,Good,,Non
+CHR0059,PR0059,Sidriell,Jhermiane,,Male,30,27,11,1987,177 cm,Nation02,Race01,Present,,Good,,Non
+CHR0060,PR0060,Morwich,Keane,,Male,30,27,12,1987,170 cm,Nation02,Race01,Present,,Good,,Non
+CHR0061,PR0061,Daelan,Hopper,,Male,31,16,9,1986,190 cm,Nation02,Race01,Present,,Good,,Non
+CHR0062,PR0062,Ramis,Alpine,,Male,33,11,10,1984,187 cm,Nation02,Race01,Present,,Good,,Non
+CHR0063,PR0063,Byleon,Balwing,,Male,52,30,2,1965,178 cm,Nation02,Race01,Present,,Good,,House Balwing
+CHR0064,PR0064,Ryan,Walcott,,Male,64,28,8,1953,183 cm,Nation02,Race01,Present,,Good,,House Balwing (Vessel)
+CHR0065,PR0065,Berille,Staines,,Female,33,29,4,1984,167 cm,Nation02,Race01,Present,,Good,,House Balwing (Vessel)
+CHR0066,PR0066,Felisha,Noel,,Female,37,20,10,1980,142 cm,Nation02,Race01,Present,,Good,,Non
+CHR0067,PR0067,Clover,Dale,,Female,43,7,5,1974,171 cm,Nation02,Race01,Present,,Good,,Non
+CHR0068,PR0068,Chi,Dinma,,Female,27,14,10,1990,171 cm,Nation02,Race01,Present,,Good,,Non
+CHR0069,PR0069,Kierra,Tanko,,Female,29,28,8,1988,150 cm,Nation02,Race01,Present,,Good,,Non
+CHR0070,PR0070,Jonathan,Bushell,,Male,28,1,6,1989,172 cm,Nation02,Race01,Present,,Good,,Non
+CHR0071,PR0071,Ulriqqa,Juellz,,Female,36,4,9,1981,153 cm,Nation02,Race01,Present,,Good,,Non
+CHR0072,PR0072,Jacob,Sanchez,,Male,28,20,1,1989,171 cm,Nation02,Race01,Present,,Good,,House Theydoryan (Vessel)
+CHR0073,PR0073,Gallen,Scezney,,Male,36,21,10,1981,191 cm,Nation02,Race01,Present,,Good,,House Theydoryan (Vessel)
+CHR0074,PR0074,Jewlen,Gadran,,Male,29,11,7,1988,184 cm,Nation02,Race01,Present,,Good,,Non
+CHR0075,PR0075,Zain,Dashim,,Male,29,25,7,1988,184 cm,Nation02,Race01,Present,,Good,,Non
+CHR0076,PR0076,Nidan,Cage,,Male,33,19,5,1984,182 cm,Nation02,Race01,Present,,Good,,Non
+CHR0077,PR0077,Adaliet,Storm,,Male,38,4,11,1979,182 cm,Nation02,Race01,Present,,Good,,Non
+CHR0078,PR0078,Kevin,Looth,,Male,39,27,3,1978,172 cm,Nation02,Race01,Present,,Good,,Non
+CHR0079,PR0079,Sarah,Theydoryan,,Female,27,25,12,1990,158 cm,Nation02,Race01,Present,,Good,,House Theydoryan
+CHR0080,PR0080,Keyron,Flanks,,Male,37,7,12,1980,170 cm,Nation02,Race01,Present,,Good,,Non
+CHR0081,PR0081,Bydene,Cahill,,Male,32,19,2,1985,193 cm,Nation02,Race01,Present,,Good,,Non
+CHR0082,PR0082,Morvil,Minosay,,Male,31,2,10,1986,184 cm,Nation02,Race01,Present,,Good,,House Minosay
+CHR0083,PR0083,Railow,Page,,Female,29,17,12,1988,159 cm,Nation02,Race01,Present,,Good,,Non
+CHR0084,PR0084,Nekka,Cosarates,,Female,29,1,9,1988,176 cm,Nation02,Race01,Present,,Good,,House Cosarates (Vessel)
+CHR0085,PR0085,Kirito,Deonaga,,Male,31,24,8,1986,195 cm,Nation02,Race01,Present,,Good,,House Deonaga
+CHR0086,PR0086,Deniella,Radcliffe,,Female,38,21,3,1979,147 cm,Nation02,Race01,Present,,Good,,House Deonaga (Vessel)
+CHR0087,PR0087,Heath,Lodgins,,Male,28,16,6,1989,193 cm,Nation02,Race01,Present,,Good,,House Deonaga (Vessel)
+CHR0088,PR0088,Jennifer,Wallace,,Female,40,30,1,1977,172 cm,Nation02,Race01,Present,,Good,,Non
+CHR0089,PR0089,Caderin,Newman,,Male,33,1,8,1984,176 cm,Nation02,Race01,Present,,Good,,Non
+CHR0090,PR0090,Laine,Pennyworth,,Female,27,10,12,1990,155 cm,Nation02,Race01,Present,,Good,,Non
+CHR0091,PR0091,Strider,Klauss,,Male,22,19,12,1995,183 cm,Nation02,Race01,Present,Student,Good,,House Klauss. Student at Elfinheim Corp
+CHR0092,PR0092,Glade,Balwing,,Male,22,22,3,1995,187 cm,Nation02,Race01,Present,Student,Good,,House Balwing. Student at Elfinheim Corp
+CHR0093,PR0093,Skylan,Theydoryan,,Male,21,12,7,1996,164 cm,Nation02,Race01,Present,Student,Good,,House Theydoryan. Student at Elfinheim Corp
+CHR0094,PR0094,Cobalt,Vescisqo,,Male,22,14,3,1995,180 cm,Nation02,Race01,Present,Student,Bad,Team03,Student at Elfinheim Corp
+CHR0095,PR0095,Sapphire,Arlei,,Female,19,11,11,1998,145 cm,Nation02,Race01,Present,Student,Bad,Team03,Student at Elfinheim Corp
+CHR0096,PR0096,Kim,Latelle,,Female,31,2,7,1986,169 cm,Nation02,Race01,Present,,Good,,Non
+CHR0097,PR0097,Nolleyega,Ivanovic,,Male,29,15,10,1988,179 cm,Nation02,Race01,Present,,Good,,Non
+CHR0098,PR0098,Archilleon,Stevensson,,Male,38,25,8,1979,192 cm,Nation02,Race01,Present,,Good,,Non
+CHR0099,PR0099,Vastien,Aidleigh,,Male,25,31,8,1992,182 cm,Nation02,Race06,Past,Ruler,Good,,22nd King of Rivelia. Died a legend and known as the Unifier of Rivelia. 
+CHR0100,PR0100,Naomi,Barenhof,,Female,21,25,7,1996,163 cm,Nation02,Race01,Past,RoyalHouse,Good,,Wife of King Vastien. She began and led the creation of institutions and learning programmes in the new Rivelia. She was also head of the Rivelian Academys (Civil and Military).
+CHR0101,PR0101,Jurial,Coppal,,Male,40,28,8,1977,174 cm,Nation02,Race01,Past,Baron,Good,,Non
+CHR0102,PR0102,Priya,CanWharf,,Female,44,20,10,1973,151 cm,Nation02,Race01,Past,Baron,Good,,Non
+CHR0103,PR0103,Nester,Pillon,,Male,47,9,2,1970,184 cm,Nation02,Race01,Past,Baron,Good,,Non
+CHR0104,PR0104,Zoltan,Frazzio,,Male,51,1,4,1966,184 cm,Nation02,Race01,Past,Baron,Good,,Non
+CHR0105,PR0105,Yohden,Mazekow,,Male,33,24,2,1984,174 cm,Nation02,Race01,Past,Baron,Good,,Non
+CHR0106,PR0106,Joshaya,Macheda,,Male,47,1,2,1970,185 cm,Nation02,Race01,Past,Baron,Good,,Non
+CHR0107,PR0107,Birkden,Gantz,,Male,38,28,11,1979,172 cm,Nation02,Race01,Past,Baron,Good,,Inheriter of Tizen's will. Also known as "The Brute"
+CHR0108,PR0108,Mezut,Fringman,,Male,40,7,5,1977,180 cm,Nation02,Race01,Past,Baron,Good,,Non
+CHR0109,PR0109,Henrik,Deagga,,Male,34,16,6,1983,172 cm,Nation02,Race01,Past,Baron,Good,,Non
+CHR0110,PR0110,Selena,Palermo,,Female,38,29,10,1979,153 cm,Nation02,Race01,Past,Baron,Good,,Non
+CHR0111,PR0111,Korra,Bernado,,Female,40,7,9,1977,166 cm,Nation02,Race01,Past,Baron,Good,,Non
+CHR0112,PR0112,Navoly,Ramitts,,Male,37,9,2,1980,177 cm,Nation02,Race01,Past,Baron,Good,,Non
+CHR0113,PR0113,Kelvin,Sorcedelle,,Male,35,1,5,1982,194 cm,Nation02,Race01,Past,Baron,Good,,Father of Rav Sorcedelle
+CHR0114,PR0114,Gorvelich,Augutz,,Male,32,10,11,1985,176 cm,Nation02,Race01,Past,Baron,Good,,Non
+CHR0115,PR0115,Kelieaza,Loughton,,Female,6,27,11,2011,160 cm,Nation02,Race01,Past,Baron,Good,,Cadels Mom and Christophers wife. The younger version of Cadel's Mom
+CHR0116,PR0116,Hayden,Marshall,,Male,25,23,6,1992,183 cm,Nation02,Race01,Present,Student,Good,,Non
+CHR0117,PR0117,Cornelius,Benjamin,,Male,25,24,4,1992,179 cm,Nation02,Race01,Present,Student,Good,,Cadels Mentor. Student at Cadels school
+CHR0118,PR0118,Eckhardt,Vaan,,Male,26,9,11,1991,190 cm,Nation02,Race01,Present,Student,Good,,Non
+CHR0119,PR0119,Nicolas,Stellar,,Male,26,12,3,1991,173 cm,Nation02,Race01,Past,,Bad,Team15,Member of the Group Amnesty
+CHR0120,PR0120,Alberto,Ruiz,,Male,27,26,12,1990,183 cm,Nation02,Race01,Past,,Bad,Team15,Member of the Group Amnesty
+CHR0121,PR0121,Marchen,Nowinz,,Male,25,9,10,1992,180 cm,Nation02,Race01,Present,Student,Neutral,,Non
+CHR0122,PR0122,Sienna,Petrics,,Female,26,15,1,1991,180 cm,Nation02,Race01,Present,Student,Neutral,,Non
+CHR0123,PR0123,Denzil,Mexes,,Male,25,25,1,1992,170 cm,Nation02,Race01,Past,,Bad,Team15,Member of the Group Amnesty
+CHR0124,PR0124,Gabe,Huntley,,Male,22,5,1,1995,170 cm,Nation02,Race01,Present,,Neutral,Team14,Member of the Valowski Crew. Becomes Leader after Tej Valowski is killed.
+CHR0125,PR0125,Paris,Love,,Female,24,16,12,1993,157 cm,Nation02,Race01,Present,,Neutral,Team14,Member of the Valowski Crew
+CHR0126,PR0126,Brock,Phelps,,Male,27,1,2,1990,187 cm,Nation02,Race01,Past,,Bad,Team15,Leader of the Group Amnesty
+CHR0127,PR0127,Cassie,Cosarates,,Female,35,29,9,1982,147 cm,Nation02,Race02,Present,,Good,Team13,House Cosarates (Vessel)
+CHR0128,PR0128,Eric,Loujay,,Male,21,5,1,1996,177 cm,Nation02,Race02,Present,,Good,,Non
+CHR0129,PR0129,Christopher,VenHought,,Male,57,10,5,1960,181 cm,Nation02,Race03,Present,,Good,,Son of Castrien Maples and Cadel's father. Is unaware of his fathers past and he has no battle skill but great forgery skills.
+CHR0130,PR0130,Ramon,Letterden,,Male,42,28,3,1975,184 cm,Nation02,Race03,Present,,Good,,Non
+CHR0131,PR0131,Sylvester,Sparrow,,Male,25,6,4,1992,173 cm,Nation02,Race03,Present,,Good,,Non
+CHR0132,PR0132,Kelsie,Bernado,,Female,21,12,12,1996,164 cm,Nation02,Race03,Present,,Good,,Non
+CHR0133,PR0133,Vinny,Judge,,Male,19,23,11,1998,186 cm,Nation02,Race03,Present,,Good,,Non
+CHR0134,PR0134,Emmilio,Kaladin,,Female,27,15,3,1990,176 cm,Nation02,Race03,Present,,Good,,Non
+CHR0135,PR0135,Castrien,Maples,,Male,28,5,7,1989,181 cm,Nation02,Race01,Past,Survivor,Good,,Only Octivilos survivor. Strongest Rivelian exile in lost childrens Arc. Vastiens Master who lived the rest of his life in a remote place
+CHR0136,PR0136,Naigallon,Omrebat,Magma,Male,27,14,2,1990,186 cm,Nation02,Race02,Present,,Bad,Team25,House Omrebat. Leader of Magma
+CHR0137,PR0137,Misha,Khedena,Crusher,Female,27,17,4,1990,177 cm,Nation02,Race02,Present,,Bad,Team25,House Omrebat (Vessel). Member of Magma
+CHR0138,PR0138,Javin,Rogers,,Male,21,8,4,1996,147 cm,Nation03,Race01,Present,,Bad,Team25,Member of Magma
+CHR0139,PR0139,Cristiano,Vela,,Male,22,28,8,1995,154 cm,Nation03,Race01,Present,,Bad,Team25,Member of Magma
+CHR0140,PR0140,Iris,Lunar,,Female,22,9,9,1995,171 cm,Nation03,Race01,Present,,Neutral,,Non
+CHR0141,PR0141,Adrian,Fagallon,,Male,44,31,3,1973,190 cm,Nation03,Race01,Present,,Neutral,,Non
+CHR0142,PR0142,Extensa,Phillipinho,,Male,34,9,9,1983,174 cm,Nation03,Race01,Present,,Neutral,,Non
+CHR0143,PR0143,Zinsh,Onaldo,,Male,31,27,10,1986,179 cm,Nation03,Race02,Present,,Neutral,,Non
+CHR0144,PR0144,Agrabin,Monnar,,Male,38,9,4,1979,187 cm,Nation03,Race02,Present,,Neutral,,Non
+CHR0145,PR0145,Kordek,Langley,,Male,31,10,3,1986,184 cm,Nation03,Race02,Present,,Neutral,,Non
+CHR0146,PR0146,Diana,Seno,,Female,23,29,1,1994,157 cm,Nation03,Race02,Present,,Neutral,,Non
+CHR0147,PR0147,Nagalan,Mayo,,Male,44,17,4,1973,188 cm,Nation03,Race02,Present,Ruler,Bad,,96th President of Alasban and Enemy of Rivelia. He contracted 7 Days and set 
+CHR0148,PR0148,Austin,Nevland,,Male,40,28,2,1977,181 cm,Nation03,Race02,Present,RoyalGuard,Bad,,Presidential Security
+CHR0149,PR0149,Orrorra,Heckley,,Male,33,14,4,1984,184 cm,Nation03,Race02,Present,RoyalGuard,Bad,,Presidential Security
+CHR0150,PR0150,Cleo,Darneelaz,,Female,31,25,4,1986,167 cm,Nation03,Race02,Present,RoyalGuard,Bad,,Presidential Security
+CHR0151,PR0151,Troyden,Carlos,,Male,26,5,5,1991,175 cm,Nation03,Race02,Present,RoyalGuard,Bad,,Presidential Security
+CHR0152,PR0152,Lucinder,Prolloys,,Female,21,26,8,1996,150 cm,Nation03,Race02,Present,Student,Neutral,Team07,Non
+CHR0153,PR0153,Harmony,Prolloys,,Female,20,29,9,1997,146 cm,Nation03,Race02,Present,Student,Neutral,Team07,Non
+CHR0154,PR0154,Gerald,Rowse,,Male,22,19,7,1995,183 cm,Nation03,Race02,Present,Student,Neutral,,Non
+CHR0155,PR0155,Arithrea,Yuri,,Female,23,3,8,1994,153 cm,Nation04,Race01,Present,Student,Neutral,Team04,Non
+CHR0156,PR0156,Anna,Province,,Female,38,12,2,1979,145 cm,Nation04,Race01,Present,General,Bad,,Highest ranking Army General for the Kingdom of Pillas
+CHR0157,PR0157,Rodney,Slayhorn,,Male,33,9,4,1984,175 cm,Nation04,Race01,Present,Admiral,Bad,,Non
+CHR0158,PR0158,Aleanee,Steade,,Female,28,22,4,1989,176 cm,Nation04,Race01,Present,Vice-Admiral,Bad,,Non
+CHR0159,PR0159,Aldurelli,Kasdeen,,Male,26,16,3,1991,186 cm,Nation04,Race02,Present,Colonel ,Bad,Team01,Non
+CHR0160,PR0160,Karen,Hilten,,Female,24,21,1,1993,155 cm,Nation04,Race02,Present,Major,Bad,,Non
+CHR0161,PR0161,Alice,Bragga,,Female,35,24,9,1982,170 cm,Nation04,Race03,Present,Lieutenant,Bad,,Non
+CHR0162,PR0162,Mira,Chung,,Female,33,25,12,1984,149 cm,Nation04,Race03,Present,Lieutenant,Bad,,Non
+CHR0163,PR0163,Bradley,Hawke,,Male,29,8,11,1988,182 cm,Nation04,Race01,Present,Mercenary3star,Bad,Team23,Leader of SeaHawk
+CHR0164,PR0164,Janice,Leigh,,Female,27,20,2,1990,170 cm,Nation04,Race01,Present,Mercenary3star,Bad,Team23,Member of SeaHawk. Bradleys lover
+CHR0165,PR0165,Taya,Feraightes,,Female,30,22,1,1987,181 cm,Nation04,Race01,Present,Mercenary4star,Bad,Team24,Loves both Kyle and Wildenham. Leader of Theranus
+CHR0166,PR0166,Kyle,Torres,,Male,34,29,9,1983,183 cm,Nation04,Race01,Present,Mercenary4star,Bad,Team24,Hates Wildenham. Member of Theranus
+CHR0167,PR0167,Wildenham,Kalabane,,Male,29,30,3,1988,181 cm,Nation04,Race01,Present,Mercenary4star,Bad,Team24,Hates Kyle. Member of Theranus
+CHR0168,PR0168,Estrella,Nivy,,Female,21,19,12,1996,150 cm,Nation05,Race01,Present,Student,Neutral,,Non
+CHR0169,PR0169,Polsen,Ettience,,Male,22,2,7,1995,148 cm,Nation05,Race01,Present,Student,Neutral,,Non
+CHR0170,PR0170,Penela,Kasdeen,,Female,23,14,10,1994,175 cm,Nation05,Race01,Present,Student,Neutral,Team01,Non
+CHR0171,PR0171,Ashra,Sehi,,Male,38,25,11,1979,173 cm,Nation05,Race01,Present,,Neutral,Team04,Non
+CHR0172,PR0172,Ibrahimovic,Pione,,Male,32,2,8,1985,182 cm,Nation05,Race02,Present,,Neutral,,Non
+CHR0173,PR0173,Annette,Colssen,,Female,21,15,2,1996,145 cm,Nation05,Race03,Present,Student,Neutral,,Non
+CHR0174,PR0174,Ventiga,Liorouch,,Male,21,7,9,1996,151 cm,Nation06,Race01,Present,Student,Neutral,,Non
+CHR0175,PR0175,Yarras,Notella,,Male,21,1,11,1996,175 cm,Nation06,Race01,Present,Student,Neutral,,Non
+CHR0176,PR0176,Gabranth,Hawkins,,Male,27,21,3,1990,183 cm,Nation06,Race01,Present,,Bad,Team11,Leader of RT-Corp
+CHR0177,PR0177,Lukas,Immobile,,Male,24,18,2,1993,173 cm,Nation06,Race01,Present,,Bad,Team11,Members of RT-Corp
+CHR0178,PR0178,Zaenus,Notella,,Male,20,27,3,1997,178 cm,Nation06,Race01,Present,,Bad,Team11,Members of RT-Corp
+CHR0179,PR0179,Arimea,Langton,,Female,29,23,9,1988,159 cm,Nation06,Race01,Present,,Bad,Team11,Members of RT-Corp
+CHR0180,PR0180,Dyramy,Kalinchsk,,Male,32,12,10,1985,172 cm,Nation06,Race01,Present,,Neutral,,Non
+CHR0181,PR0181,Katia,Nowinsky,,Female,15,20,7,2002,172 cm,Nation06,Race03,Present,,Neutral,,Non
+CHR0182,PR0182,Reiss,Chaplin,,Male,17,7,2,2000,174 cm,Nation06,Race01,Present,,Neutral,,Non
+CHR0183,PR0183,Rosalita,Mikowitz,,Female,28,21,8,1989,154 cm,Nation07,Race01,Present,,Neutral,,Non
+CHR0184,PR0184,Luis,VaGral,,Male,36,31,9,1981,178 cm,Nation07,Race01,Present,,Neutral,,Non
+CHR0185,PR0185,Hector,Fergusson,,Male,47,27,2,1970,173 cm,Nation07,Race01,Present,,Neutral,,Non
+CHR0186,PR0186,Old Dr Gashern,Mutch,,Male,80,14,8,1937,170 cm,Nation07,Race01,Past,Scientist,Bad,,Scientist in charge of the V12 Superdrug. Gashern helps unlock Castrien and Vastien's abilities and sets the kids free albeit losing his own life during the plan.
+CHR0187,PR0187,Amasay,Tarjim,,Male,28,23,7,1989,194 cm,Nation07,Race01,Present,,Good,,Non
+CHR0188,PR0188,Mikeala,Ryazan,,Female,27,2,10,1990,171 cm,Nation07,Race01,Present,,Good,,Non
+CHR0189,PR0189,Burielle,Tarjim,,Male,24,2,8,1993,175 cm,Nation07,Race01,Present,,Good,,Non
+CHR0190,PR0190,Luba,Ryazan,,Male,24,18,8,1993,192 cm,Nation07,Race01,Present,,Good,,Non
+CHR0191,PR0191,Erika,Wuja,,Female,42,20,5,1975,169 cm,Nation07,Race03,Past,Scientist,Bad,,Scientist involved in the Research
+CHR0192,PR0192,Diamante,Frock,,Male,42,23,8,1975,195 cm,Nation07,Race05,Past,Scientist,Bad,,Scientist involved in the Research
+CHR0193,PR0193,Dr Canary,Taovolt,,Female,38,11,6,1979,161 cm,Nation07,Race01,Past,Scientist,Bad,,Doctor of captive Rivelians. Helps Geshern's plan to save the lost children
+CHR0194,PR0194,Channon,Finch,,Male,40,29,4,1977,189 cm,Nation07,Race01,Past,Bronze Guard,Bad,,Guard of exile camp
+CHR0195,PR0195,Scott,Ricks,,Male,27,17,11,1990,178 cm,Nation07,Race01,Past,Bronze Guard,Bad,,Guard of exile camp
+CHR0196,PR0196,Lucas,Nova,,Male,57,14,12,1960,183 cm,Nation08,Race02,Past,,Neutral,,Non
+CHR0197,PR0197,Sundeulon,AlvenPort,,Male,26,11,9,1991,181 cm,Nation08,Race03,Present,MercenaryMostWanted,Bad,Team17,SunOverLord and leader of 7Days. Original name is Lyoctis. First Sundeulon to pardon his rival. Sat on the Freiya seat until ussurping the previous Sundeulon who wanted to harm Coral 2 years ago
+CHR0198,PR0198,Coral,AlvenPort,,Male,16,1,1,2001,174 cm,Nation08,Race03,Present,MercenaryMostWanted,Bad,Team17,Sundeulon Younger Brother. The previous Sundeulon grew jealous of Lyoctis and wanted to use Coral to get to him. Lyoctis faced and killed him then contested against Kronos for the seat and pardoned her.
+CHR0199,PR0199,Dohmanus-Moon,Day,,Male,33,8,9,1984,179 cm,Nation08,Race03,Present,MercenaryMostWanted,Bad,Team10,MondayPrince. Close ally to Imrhav yet did not assist in the Usurp accord. Kept his seat without contest.
+CHR0200,PR0200,Die-Tui-Ares,Day,,Female,27,25,9,1990,163 cm,Nation08,Race03,Present,MercenaryMostWanted,Bad,Team10,TuesdayPrime. After Imrhav who was the first to fall under the usurp accord was killed by Lyoctis, Ares won the seat by contest
+CHR0201,PR0201,Daig-Wegnes,Day,,Male,29,29,3,1988,176 cm,Nation08,Race03,Present,MercenaryMostWanted,Bad,Team10,WednesdayNoble. Did not join in Lyoctis quest to usurp the previous Sundeulon, Vengha and Imrhav. Won the seat by contest
+CHR0202,PR0202,Thors-Deag,Day,,Male,25,2,6,1992,178 cm,Nation08,Race03,Present,MercenaryMostWanted,Bad,Team10,ThursdayHerald. Deag won the seat by contest killing the original Thors-Vengha during the ussurp accord. Brave yet cocky man and latest recruittee of the 7 days guild
+CHR0203,PR0203,Dibas-Freiya,Day,,Male,28,29,5,1989,191 cm,Nation08,Race03,Present,MercenaryMostWanted,Bad,Team10,FridayNoble. Lost his Maysha seat in content after defeat to Kronos and was pardoned. Kronos who was pardoned had earlier lost to Sundeulon. Did not contest for the vacant Sundeulon seat.
+CHR0204,PR0204,Kronos-Maysha,Day,,Female,27,1,11,1990,150 cm,Nation08,Race07,Present,MercenaryMostWanted,Bad,Team10,SaturdayLord. 1st participant to survive a Sundeulon contest. Won the seat after victory over Dias-Freiya. She is also a Yommine of Fire and the strongest Yommine.
+CHR0205,PR0205,Gene,Kadaratti,,Female,24,11,10,1993,168 cm,Nation08,Race03,Present,MercenaryMostWanted,Neutral,Team20,Leader of PrimeLord. Tasked to take down 7Days
+CHR0206,PR0206,Doulos-Lova,Day,,Male,26,10,1,1991,183 cm,Nation08,Race03,Present,MercenaryMostWanted,Neutral,Team20,Member of PrimeLord tasked to take down 7Days
+CHR0207,PR0207,Doulos-Mexes,Day,,Male,26,10,3,1991,176 cm,Nation08,Race03,Present,MercenaryMostWanted,Neutral,Team20,Member of PrimeLord tasked to take down 7Days
+CHR0208,PR0208,Doulos-Gygax,Day,,Male,25,11,7,1992,186 cm,Nation08,Race03,Present,MercenaryMostWanted,Neutral,Team20,Member of PrimeLord tasked to take down 7Days
+CHR0209,PR0209,Ishyavelle,Khermani,,Female,36,10,11,1981,155 cm,Nation08,Race03,Present,Ruler,Bad,,18th Generation Queen of Gheruddia. Rival Nation to Rivelia
+CHR0210,PR0210,Doulos-V,Lomini,,Male,31,19,2,1986,190 cm,Nation08,Race03,Present,RoyalGuard,Bad,,Royal Guard of Gheruddia
+CHR0211,PR0211,Doulos-M,Torekmini,,Male,44,17,2,1973,182 cm,Nation08,Race03,Present,RoyalGuard,Bad,,Royal Guard of Gheruddia
+CHR0212,PR0212,Doulos-P,Aghini,,Male,38,11,4,1979,172 cm,Nation08,Race03,Present,RoyalGuard,Bad,,Royal Guard of Gheruddia
+CHR0213,PR0213,Doulos-K,Marutini,,Female,23,16,8,1994,144 cm,Nation08,Race03,Present,RoyalGuard,Bad,,Royal Guard of Gheruddia
+CHR0214,PR0214,Dior,Maverick,,Female,33,21,2,1984,149 cm,Nation08,Race03,Present,Mercenary2star,Neutral,Team08,Leader of the Plaque Sisters
+CHR0215,PR0215,Jonique,Maverick,,Female,28,19,1,1989,163 cm,Nation08,Race03,Present,Mercenary2star,Neutral,Team08,Member of the Plaque Sisters
+CHR0216,PR0216,Trina,Maverick,,Female,30,5,7,1987,157 cm,Nation08,Race03,Present,Mercenary2star,Neutral,Team08,Member of the Plaque Sisters
+CHR0217,PR0217,Tiffany,Morwitz,,Female,22,29,2,1995,165 cm,Nation08,Race04,Present,,Bad,,Non
+CHR0218,PR0218,Tristia,Forge,,Female,16,15,7,2001,162 cm,Nation08,Race03,Present,Guard,Bad,Team17,Sundeulon Personal Guard
+CHR0219,PR0219,Anton,Cavani,,Male,53,1,7,1964,170 cm,Nation09,Race02,Present,,Neutral,,Non
+CHR0220,PR0220,Kirzhonn,Maximo,,Male,31,1,5,1986,172 cm,Nation09,Race04,Present,,Neutral,,Non
+CHR0221,PR0221,Laservy,Rott,,Male,28,26,5,1989,183 cm,Nation09,Race04,Present,,Neutral,,Non
+CHR0222,PR0222,Dyrdirak,Waltz,,Male,52,25,12,1965,218 cm,Nation09,Race04,Present,Ruler,Bad,,18th King of Edoma and Final Boss
+CHR0223,PR0223,Syla,Waltz,,Male,24,23,5,1993,184 cm,Nation09,Race04,Present,RoyalHouse,Neutral,,Son of Dirdirak. He was King Heir to his father's throne until the accident which led to his partner losing their child. He lost control and was banished. He lived the rest of his life in exile.
+CHR0224,PR0224,Kissandria,Florence,,Female,22,20,7,1995,175 cm,Nation09,Race04,Present,RoyalHouse,Neutral,,Syla's pregnant partner who lost her child and sent Syla to Exile after his rampage
+CHR0225,PR0225,RayDoth Khan,Noon,,Male,40,12,2,1977,189 cm,Nation09,Race04,Present,RoyalGuard,Neutral,,Royal Guard of Edoma
+CHR0226,PR0226,RayDoth Khalim,Noon,,Male,40,12,8,1977,171 cm,Nation09,Race04,Present,RoyalGuard,Neutral,,Royal Guard of Edoma
+CHR0227,PR0227,RayDoth Oghis,Noon,,Male,40,31,4,1977,178 cm,Nation09,Race04,Present,RoyalGuard,Neutral,,Royal Guard of Edoma
+CHR0228,PR0228,RayDoth Milano,Noon,,Male,40,17,8,1977,193 cm,Nation09,Race04,Present,RoyalGuard,Neutral,,Royal Guard of Edoma
+CHR0229,PR0229,Dr Lykryshia,Yeolle,,Female,42,15,8,1975,176 cm,Nation09,Race04,Past,NPC,Neutral,,Scientist in charge of the V12 Superdrug. She dies after an accident with Castrien and is replaced by Gashern.
+CHR0230,PR0230,Fable,Pogerritz,,Male,24,30,3,1993,182 cm,Nation09,Rank05,Present,Security,Good,Team05,Jordan's Team in Edoma
+CHR0231,PR0231,Sable,Lorden,,Female,23,28,2,1994,175 cm,Nation09,Rank05,Present,Security,Good,Team05,Jordan's Team in Edoma
+CHR0232,PR0232,Traviolaidis,Waltz,,Male,57,17,10,1960,183 cm,Nation09,Race04,Past,Ruler,Bad,,17th King of Edoma and Vastiens adversary. He is the SynthHume who after an error went on a rampage and boosted his strength far beyond his creators expectation. He then conquered his Kingdom.
+CHR0233,PR0233,Rhiannon,Waltz,,Female,36,13,1,1981,150 cm,Nation09,Race04,Past,RoyalHouse,Bad,,17th Queen of Edoma and Mother to Dyrdirak
+CHR0234,PR0234,Zyana,Waltz,,Female,45,13,1,1972,173 cm,Nation09,Race04,Present,RoyalHouse,Neutral,,Queen of Edoma and Syla's mom. 18th Queen of Edoma
+CHR0235,PR0235,Timothy,Ropeg,,Male,16,7,8,2001,186 cm,Nation09,Race04,Present,,Bad,,1st Heir to the Edoma 18th seat Throne. Not by blood but by strenth
+CHR0236,PR0236,Victor,Dulop,,Male,13,5,4,2004,187 cm,Nation09,Race04,Present,,Bad,,2nd Heir to the Edoma 18th seat Throne. Not by blood but by strenth
+CHR0237,PR0237,Ianspargol,Fluizz,,Male,36,21,2,1981,178 cm,Nation09,Race04,Past,King Guard,Bad,,Edoma King Guard
+CHR0238,PR0238,Benjy,Lowgy,,Male,31,26,9,1986,174 cm,Nation09,Race04,Past,King Guard,Bad,,Edoma King Guard
+CHR0239,PR0239,Ishmarr,Learings,,Female,33,2,6,1984,160 cm,Nation09,Race04,Past,King Guard,Bad,,Edoma King Guard
+CHR0240,PR0240,Nexus,Owens,,Male,28,21,1,1989,192 cm,Nation10,Race03,Present,Mercenary5star,Bad,Team19,Southern Blue Rebel
+CHR0241,PR0241,Dorathia,Lieumme,,Female,24,12,10,1993,173 cm,Nation10,Race03,Present,Mercenary4star,Bad,Team19,Her father helped Nexus when he was younger. She joined his team as a way of him protecting her.
+CHR0242,PR0242,Vug,Valowski,,Male,25,9,4,1992,192 cm,Nation10,Race03,Present,Mercenary4star,Neutral,Team12,Brotherhood Team of Space Bounty Hunters
+CHR0243,PR0243,Yug,Valowski,,Male,25,17,10,1992,182 cm,Nation10,Race03,Present,Mercenary4star,Neutral,Team12,Brotherhood Team of Space Bounty Hunters
+CHR0244,PR0244,Newton,Lancaster,,Male,6,25,5,2011,178 cm,Nation10,Race05,Present,,Neutral,,Non
+CHR0245,PR0245,Emmillia,Holland,,Female,35,4,9,1982,159 cm,Nation11,Race05,Present,Ruler,Neutral,,88th Primmerre of Kimo. The 87th created the Edoma cascade plan and he created the Cebereyal project.
+CHR0246,PR0246,Symphony,Lockheart,,Female,24,4,11,1993,177 cm,Nation11,Race05,Present,General,Neutral,,Chief Advisor of Kimo Primmerre. Ordered the execution of the lost children and lost her life during the escape. Highest ranking General of the Kingdom of Kimo
+CHR0247,PR0247,Protreas,Greenberg,,Male,48,29,1,1969,193 cm,Nation12,Race05,Present,Ruler,Bad,,55th Prime of Agla. He plans to war against Kimo
+CHR0248,PR0248,Lukyong,Chambers,,Male,43,25,6,1974,172 cm,Nation12,Race05,Present,General,Bad,,General of Space force of the Kingdom of Agla
+CHR0249,PR0249,Torosen,Bale,,Male,41,31,6,1976,181 cm,Nation12,Race05,Present,,Bad,,Non
+CHR0250,PR0250,Solomon,Kerner,,Male,34,30,9,1983,178 cm,Nation12,Race05,Present,,Bad,,Non
+CHR0251,PR0251,Guillaine,Ducasse,,Female,27,21,12,1990,156 cm,Nation12,Race05,Present,,Bad,,Non
+CHR0252,PR0252,Kholladden,Bronco,,Male,26,9,4,1991,186 cm,Nation11,Race04,Present,Bronze Guard,Bad,,Captain of Bronze Guards. A SynthHume
+CHR0253,PR0253,Ransonne,Silva,,Male,25,11,2,1992,184 cm,Nation11,Race04,Present,Silver Guard,Bad,,Captain of Silver Guards. A SynthHume
+CHR0254,PR0254,Gabreillia,Lovincki,,Female,25,16,3,1992,177 cm,Nation11,Race04,Future,Golden Guard,Bad,,Captain of Golden Guards. A SynthHume and she was kept pure by Primmerre until she lost to Nikolix and was offered as a prize
+CHR0255,PR0255,Vardez,Halo,,Male,32,27,1,1985,180 cm,Nation11,Race04,Future,Golden Guard,Bad,,Exemplar and Cebereyal Guard. A SynthHume
+CHR0256,PR0256,Riyad,Halo,,Male,29,12,6,1988,181 cm,Nation21,Race04,Future,Golden Guard,Bad,,Exemplar and Cebereyal Guard. A SynthHume
+CHR0257,PR0257,Mikheleo,Oyanga,,Male,30,4,8,1987,182 cm,Nation21,Race04,Future,Halo Guard,Bad,,Exemplar and Cebereyal Guard. Cebereyal Prestige and Gabreillia's successor after she was defeated by Nikolix. A SynthHume
+CHR0258,PR0258,Browden,Maverichi,,Male,28,10,11,1988,179 cm,Nation02,Race01,Present,Covet Missions,Good,,Lynstra Apprentice. On mission until recalled at very end
+CHR0259,PR0259,Vallearys,Bicnov,,Female,26,3,6,1990,179 cm,Nation02,Race07,Present,Covet Missions,Good,,Lynstra Apprentice. Also a Yommine of Lightning. On mission until recalled at very end
+CHR0260,PR0260,Matteta,Kalejo,,Female,20,20,1,1996,163 cm,Nation19,Race07,Present,Ruler,Neutral,,Queen of Dismura. Also a Yommine of Ice
+CHR0261,PR0261,Steffanio,Delgrajo,,Male,23,22,7,1993,180 cm,Nation02,Race01,Future,Space Pirate,Good,Team26,Member of Team Bandit Boys. Cook in the team
+CHR0262,PR0262,Rekpo,Rannusi,,Male,27,17,10,1989,183 cm,Nation02,Race01,Future,Space Pirate,Good,Team26,Member of Team Bandit Boys. Father of the team.
+CHR0263,PR0263,Nikolix,Omrachu,,Male,25,24,10,1991,182 cm,Nation02,Race01,Future,Space Pirate,Good,Team26,Leader of Bandit Boys. Rivelian who battled an won against a Golden Guard. Won her at contest and she became his companion. Also won the Amido Space X speedster
+CHR0264,PR0264,Bibiana,Hartfield,,Female,26,18,3,1990,178 cm,Nation02,Race01,Future,Space Pirate,Good,Team26,Member of Team Bandit Boys. Pilot of the Amido Space X
+CHR0265,PR0265,Jurgen,Hartfield,,Male,27,12,9,1990,184 cm,Nation20,Race02,Present,Exiled,Bad,,Main Antagonist of the Future series. He is of Lystra Level
+CHR0266,PR0266,Petra,Dynakov,,Male,23,13,4,1994,170 cm,Nation02,Race01,Present,Student,Good,,Head of Student Council
+CHR0267,PR0267,Nycia,Adelgun,,Female,26,6,7,1991,165 cm,Nation22,Race02,Present,Spy,Good,Team05,Member of Team Jordan. Team Caster
+CHR0268,PR0268,Ejiroba,Batunday,,Male,28,30,4,1989,183 cm,Nation23,Race03,Present,Spy,Good,Team05,Member of Team Jordan. Team's Melee Stealther
+CHR0269,PR0269,Mihaa,Averico,,Female,21,27,12,1996,167 cm,Nation02,Race01,Present,Student,Good,,Elfenheim School Representative
+CHR0270,PR0270,Bodean,Kayle,,Male,22,18,12,1995,180 cm,Nation02,Race01,Present,Student,Neutral,,Elfenheim School Decorated Military Artist
+CHR0271,PR0271,Elessia,Mjara,,Female,20,28,6,1997,171 cm,Nation02,Race01,Present,Student,Good,,Elfenheim Class Representative
+CHR0272,PR0272,Phoena,Monirbe,,Female,24,20,11,1993,152 cm,Nation14,Race01,Present,,Neutral,Team27,Judge
+CHR0273,PR0273,Kieser,Banji,,Male,26,31,9,1991,184 cm,Nation14,Race01,Present,,Neutral,Team27,Judge
+CHR0274,PR0274,Ebijah,Ramaraldan,,Male,32,4,1,1985,184 cm,Nation14,Race01,Present,,Neutral,Team27,Judge
+CHR0275,PR0275,Amal,Ramaraldan,,Male,28,13,8,1989,176 cm,Nation14,Race01,Present,,Neutral,Team27,Judge
+CHR0276,PR0276,Tearria,Pekorat,,Female,26,18,12,1991,169 cm,Nation14,Race01,Present,,Neutral,Team27,Judge
+CHR0277,PR0277,Vlasde,Jgrue,,Male,27,25,7,1990,177 cm,Nation14,Race01,Present,,Neutral,Team27,Judge
+CHR0278,PR0278,Joist,Gobaban,,Male,24,15,12,1993,181 cm,Nation14,Race01,Present,,Neutral,Team27,Judge
+CHR0279,PR0279,Trovan,Makarazzlyu,,Male,33,6,10,1984,177 cm,Nation14,Race01,Present,,Neutral,Team27,Judge
+CHR0280,PR0280,Swane,Derricyhe,,Male,32,15,7,1985,179 cm,Nation14,Race01,Present,,Neutral,Team27,Executioner
+CHR0281,PR0281,Irvinos,Quipal,,Male,30,18,6,1987,180 cm,Nation14,Race01,Present,,Neutral,Team27,Executioner
+CHR0282,PR0282,Roes,Forxtren,,Male,27,8,8,1990,184 cm,Nation14,Race01,Present,,Neutral,Team27,Executioner
+CHR0283,PR0283,Dhaena,Bigelle,,Female,25,18,7,1992,170 cm,Nation14,Race01,Present,,Neutral,Team27,Executioner
+CHR0284,PR0284,Jahamas,Nogorio,,Male,26,1,12,1991,181 cm,Nation14,Race01,Present,,Neutral,Team27,Executioner
+CHR0285,PR0285,Luvvy,Maxxian,,Male,27,30,12,1990,181 cm,Nation14,Race01,Present,,Neutral,Team27,Executioner
+CHR0286,PR0286,Urich,Allbright,,Male,28,16,9,1989,176 cm,Nation14,Race01,Present,,Neutral,Team27,Executioner
+CHR0287,PR0287,Lyewin,Shrep,,Male,29,17,2,1988,183 cm,Nation14,Race01,Present,,Neutral,Team27,Executioner
+CHR0288,PR0288,Ulmacia,Wenter,,Female,28,15,7,1989,169 cm,Nation23,Race07,Present,,Neutral,,XXXX. Also a Yommine of XXX
+CHR0289,PR0289,Xeo,Masderry,,Female,18,21,12,1999,156 cm,Nation24,Race07,Present,,Neutral,,XXXX. Also a Yommine of XXX
+CHR0290,PR0290,Giselle,Lorquist,,Female,20,26,6,1997,159 cm,Nation20,Race01,Future,,Good,Team28,Crown Princess
+CHR0291,PR0291,Mandreri,Oxlog,,Male,33,10,7,1984,176 cm,Nation20,Race01,Future,,Good,Team28,Giselle's Guardian
+CHR0292,PR0292,Nyles,Lupoend,,Male,24,4,1,1993,184 cm,Nation20,Race01,Present,,Neutral,,Giselle's Guardian
+CHR0293,PR0293,Sauvaris,Haitzel,,Male,28,12,2,1989,182 cm,Nation20,Race01,Present,,Neutral,,Giselle's Guardian
+CHR0294,PR0294,Rexha,Tibeitte,,Male,29,31,5,1988,182 cm,Nation24,Race01,Present,,Neutral,,Crown Prince of Planet Sharazzan
+CHR0295,PR0295,Djouru,Filica,,Male,32,25,10,1985,181 cm,Nation24,Race01,Present,,Neutral,,Royal Dignitary
+CHR0296,PR0296,Hartavilyes,Justade,,Male,34,28,12,1983,184 cm,Nation24,Race01,Present,,Neutral,,Royal Dignitary
+CHR0297,PR0297,Amshara,Waiylun,,Female,25,29,1,1992,152 cm,Nation24,Race01,Present,,Neutral,,Planet Sharazzan's champion. Spear weilder specialist
+CHR0298,PR0298,Karjar,Haxsby,,Male,26,26,9,1991,183 cm,Nation24,Race01,Present,,Neutral,,Amshara's Guard
+CHR0299,PR0299,Khelani,Gallard,,Female,22,4,12,1995,160 cm,Nation24,Race01,Present,,Neutral,,Amshara's Guide
+CHR0300,PR0300,Brecel,Truasen,,Male,27,16,2,1990,182 cm,Nation18,Race05,Present,,Bad,,Rouge Law Enforcer
+CHR0301,PR0301,Claudeanette,Saulbacj,,Female,26,13,8,1991,171 cm,Nation16,Race02,Present,,Neutral,,Kseniya's Guide
+CHR0302,PR0302,Kseniya,Eyiolyer,Saw dust Queen,Female,24,9,8,1993,168 cm,Nation16,Race02,Present,,Neutral,,Adventurous Noble - bounty huntress

@@ -1,0 +1,22 @@
+[ArmourID],[Name],[WeightId],[Defence]
+Armr001,Mech Suit,Wg01,25
+Armr002,Battle ZeoClad,Wg01,50
+Armr004,RoughEdge Armblet,Wg01,75
+Armr003,ErgStar Rift,Wg02,75
+Armr005,Fusion Rowse,Wg01,100
+Armr006,Gillidarx,Wg02,150
+Armr007,Tuffmore,Wg01,200
+Armr008,Clad Guard,Wg01,250
+Armr009,Enigma Suit,Wg01,250
+Armr010,Knight Suit,Wg02,400
+Armr011,Ultra Suit,Wg01,500
+Armr012,Armoured Suit,Wg02,600
+Armr013,Heavy Armour,Wg02,1200
+Armr014,CladArmour,Wg02,1500
+Armr015,StoneWall Armour,Wg02,1800
+Armr016,War Suit,Wg01,2500
+Armr017,Titan Suit,Wg02,4000
+Armr018,Impaler Armour,Wg03,6000
+Armr019,Impaler Suit,Wg03,7000
+Armr020,Ultear Gear,Wg02,8600
+Armr021,Extremis,Wg02,9500

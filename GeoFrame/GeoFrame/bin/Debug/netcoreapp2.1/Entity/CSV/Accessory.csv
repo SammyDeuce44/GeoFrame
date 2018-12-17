@@ -1,0 +1,46 @@
+[AccessoryID],[Type],[Name],[AttributeID],[Amount]
+Acce001,Bangle,Iron Bangle,Attr001,50
+Acce002,Bangle,Silver Bangle,Attr001,100
+Acce003,Bangle,Gold Bangle,Attr001,150
+Acce004,Bangle,Titanium Bangle,Attr001,200
+Acce005,Bangle,Platinum Bangle,Attr001,400
+Acce006,Bangle,Pulritz Bangle,Attr001,800
+Acce007,Bangle,Flagille Bangle,Attr001,1500
+Acce008,Wristband,Power Wristband,Attr002,20
+Acce009,Wristband,Brawler Wristband,Attr002,50
+Acce010,Wristband,Warriors Wristband,Attr002,100
+Acce011,Wristband,Champions Wristband,Attr002,150
+Acce012,Wristband,Power Gloves,Attr002,250
+Acce013,Crystal,Enigrian Set,Attr003,100
+Acce014,Crystal,Enigrian Mark,Attr003,150
+Acce015,Crystal,Enigrian Crest,Attr003,200
+Acce016,Crystal,Enigrain Code,Attr003,250
+Acce017,Crystal,Enigrian Carousel,Attr003,300
+Acce018,Crystal,Enigrian Wrapper,Attr003,500
+Acce019,Crystal,Enigrian Rule,Attr003,750
+Acce020,Crystal,Enigrian State,Attr003,1000
+Acce021,Crystal,Enigrian Suite,Attr003,1500
+Acce022,Ring,Haste Ring,Attr004,20
+Acce023,Ring,Sonic Ring,Attr004,50
+Acce024,Ring,SuperSonic Ring,Attr004,75
+Acce025,Ring,Lightning Ring,Attr004,100
+Acce026,Deflector,Arc Property,Attr005,150
+Acce027,Deflector,Regen Property,Attr005,250
+Acce028,Deflector,Pearl Property,Attr005,450
+Acce029,Deflector,Embrio Propery,Attr005,800
+Acce030,Ribbon,Red Ribbon,Attr006,50
+Acce031,Ribbon,Blue Ribbon,Attr006,50
+Acce032,Ribbon,Yellow Ribbon,Attr006,50
+Acce033,Ribbon,Brown Ribbon,Attr006,50
+Acce034,Ribbon,White Ribbon,Attr006,50
+Acce035,Pendant,LocketHeart,Attr007,100
+Acce036,Pendant,EmeraldBlue,Attr007,250
+Acce037,Pendant,Phinxx,Attr007,500
+Acce038,Gem,Metal-Gem,Attr006,60
+Acce039,Gem,Wood-Gem,Attr006,60
+Acce040,Gem,Ice-Gem,Attr006,60
+Acce041,Gem,Fire-Gem,Attr006,60
+Acce042,Gem,Water-Gem,Attr006,60
+Acce043,Gem,Earth-Gem,Attr006,60
+Acce044,Gem,Wind-Gem,Attr006,60
+Acce045,Gem,Lightning-Gem,Attr006,60

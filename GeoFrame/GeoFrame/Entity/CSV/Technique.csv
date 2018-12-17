@@ -1,0 +1,18 @@
+[TechID],[Type],[Group],[Name],[Level],[ATB Cost],[Range],[Description],[Wielder]
+Tech001,SoulTechnique,Duce,Duce,Lvl02,2,Rang01,,
+Tech002,SoulTechnique,Duce,Megaduce,Lvl03,3,Rang01,,
+Tech003,SoulTechnique,Duce,Omniduce,Lvl03,3,Rang01,,
+Tech004,SoulTechnique,Spectral,3 Swords,Lvl02,2,Rang02,,Coral
+Tech005,SoulTechnique,Spectral,12 Swords,Lvl03,3,Rang02,,Sundelon
+Tech006,SoulTechnique,Khiladhus,Impreaza,Lvl02,2,Rang01,,
+Tech007,SoulTechnique,Khiladhus,Enkilados,Lvl03,3,Rang02,,
+Tech008,SoulTechnique,Khiladhus,Genkilados,Lvl04,4,Rang03,,
+Tech009,SoulTechnique,Rengharn,Gadruhiz,Lvl01,1,Rang01,,
+Tech010,SoulTechnique,Rengharn,Chaard,Lvl02,2,Rang01,,Cadel
+Tech011,SoulTechnique,Rengharn,Jhoult,Lvl03,3,Rang01,,Sedrick, Strider
+Tech012,SoulTechnique,Rengharn,Humitt,Lvl04,4,Rang01,,Vastien, Jordan
+Tech013,SoulTechnique,,Fluxx,Lvl02,2,Rang01,,Gene
+Tech014,SoulTechnique,,Collage,Lvl02,2,Rang01,,
+Tech015,SoulTechnique,,Engraft,Lvl02,2,Rang01,,
+Tech016,SoulTechnique,,Sound,Lvl02,2,Rang01,,
+Tech017,SoulTechnique,,Ephrixx,Lvl02,2,Rang01,,

@@ -1,0 +1,68 @@
+[OvrdID],[Type],[Group],[Name],[Level],[ATB Cost],[Range],[Description],[Wielder]
+Ovr001,OverDrive,,Eye of Taurhus,Lvl02,2,Rang01,2,
+Ovr002,OverDrive,,Outburst,Lvl02,2,Rang01,2,
+Ovr003,OverDrive,,Black-Zone,Lvl02,2,Rang01,2,
+Ovr004,OverDrive,,Bliss-Night,Lvl02,2,Rang01,2,
+Ovr005,OverDrive,,Blue-Whale,Lvl02,2,Rang01,2,
+Ovr006,OverDrive,,Bullet,Lvl02,2,Rang01,2,
+Ovr007,OverDrive,,Callypso,Lvl02,2,Rang01,2,
+Ovr008,OverDrive,,Chronica,Lvl02,2,Rang01,2,
+Ovr009,OverDrive,,Dag-Havas,Lvl02,2,Rang01,2,
+Ovr010,OverDrive,,Decibal,Lvl02,2,Rang01,2,
+Ovr011,OverDrive,,Double-Bubble ,Lvl02,2,Rang01,2,
+Ovr012,OverDrive,,Elipse,Lvl02,2,Rang01,2,
+Ovr013,OverDrive,,Pyrimad Thall,Lvl02,2,Rang01,2,
+Ovr014,OverDrive,,Gale-Warrior,Lvl02,2,Rang01,2,Henry
+Ovr015,OverDrive,,Gallayas,Lvl02,2,Rang01,2,
+Ovr016,OverDrive,,Gallor-Claw,Lvl02,2,Rang01,2,Maelinn
+Ovr017,OverDrive,,Gallows,Lvl02,2,Rang01,2,
+Ovr018,OverDrive,,Glow-Shot,Lvl02,2,Rang01,2,
+Ovr019,OverDrive,,Hail-Storm,Lvl02,2,Rang02,2,
+Ovr020,OverDrive,,Blue-lynx,Lvl02,2,Rang01,2.5,
+Ovr021,OverDrive,,Ignirus,Lvl02,2,Rang02,2.5,
+Ovr022,OverDrive,,Indigo,Lvl02,2,Rang01,2.5,
+Ovr023,OverDrive,,Jaw-Clove,Lvl02,2,Rang01,2.5,
+Ovr024,OverDrive,,Jupiter,Lvl02,2,Rang01,2.5,
+Ovr025,OverDrive,,Light-Pole,Lvl02,2,Rang01,2.5,
+Ovr026,OverDrive,,Mecury,Lvl02,2,Rang01,2.5,
+Ovr027,OverDrive,,North-Pull,Lvl02,2,Rang01,2.5,
+Ovr028,OverDrive,,Oceanic,Lvl02,2,Rang02,2.5,
+Ovr029,OverDrive,,Omnibition,Lvl02,2,Rang01,2.5,
+Ovr030,OverDrive,,Parallel,Lvl02,2,Rang01,2.5,
+Ovr031,OverDrive,,Pavey,Lvl02,2,Rang01,2.5,
+Ovr032,OverDrive,,Rainbow,Lvl02,2,Rang01,2.5,
+Ovr033,OverDrive,,Ray-Dust,Lvl02,2,Rang02,2.5,
+Ovr034,OverDrive,,Reaver,Lvl02,2,Rang02,3,
+Ovr035,OverDrive,,Sapphirite,Lvl02,2,Rang02,3,
+Ovr036,OverDrive,,Scythe,Lvl02,2,Rang02,3,
+Ovr037,OverDrive,,Molten-Dance,Lvl03,2,Rang02,3,Axel
+Ovr038,OverDrive,,Bask-Hole,Lvl03,3,Rang02,3,
+Ovr039,OverDrive,,Nidaraclipse,Lvl03,3,Rang02,3,
+Ovr040,OverDrive,,South-Thrust,Lvl03,3,Rang02,3,
+Ovr041,OverDrive,,Spiral-Wall,Lvl03,3,Rang02,3,Marsden
+Ovr042,OverDrive,,Sten-Rod,Lvl03,3,Rang02,3,
+Ovr043,OverDrive,,Sun-Down,Lvl03,3,Rang03,3,
+Ovr044,OverDrive,,Tidra,Lvl03,3,Rang02,3,
+Ovr045,OverDrive,,Trampede,Lvl03,3,Rang02,3,
+Ovr046,OverDrive,,Obelisk,Lvl03,3,Rang02,3,
+Ovr047,OverDrive,,Helion,Lvl03,3,Rang02,3,
+Ovr048,OverDrive,,Hyperion,Lvl03,3,Rang02,3,
+Ovr049,OverDrive,,Icarus,Lvl03,3,Rang03,3,
+Ovr050,OverDrive,,Nexus-Blue,Lvl03,3,Rang03,3,Nexus
+Ovr051,OverDrive,,Ozone-Blue,Lvl03,3,Rang03,3,
+Ovr052,OverDrive,,Ambion,Lvl03,3,Rang02,3,
+Ovr053,OverDrive,,UltraViolet,Lvl03,3,Rang02,3,
+Ovr054,OverDrive,,Ultreayhu,Lvl03,3,Rang02,3.5,
+Ovr055,OverDrive,,Osiris,Lvl03,3,Rang02,3.5,
+Ovr056,OverDrive,,IglluVastasia,Lvl03,3,Rang02,3.5,
+Ovr057,OverDrive,,Jordaenia,Lvl04,3,Rang02,3.5,Jordan
+Ovr058,OverDrive,,Black-Zone,Lvl04,4,Rang03,4,Sedrick III
+Ovr059,OverDrive,,Universal Pull,Lvl04,4,Rang03,4,
+Ovr060,OverDrive,,Gravity repulsion,Lvl04,4,Rang03,4,
+Ovr061,OverDrive,,Almighty Push,Lvl04,4,Rang03,4,
+Ovr062,OverDrive,,Falling Star,Lvl04,4,Rang03,4,
+Ovr063,OverDrive,,Armiger Arsenal,Lvl05,4,Rang02,4,Sundeulon. This ability summons spectral swords around the weilder to increase speed and strength. 
+Ovr064,OverDrive,,FinalShot,Lvl04,4,Rang02,4,Dyrdirak
+Ovr065,OverDrive,,Mutilated spore,Lvl04,4,Rang03,4.5,Syla
+Ovr066,OverDrive,,VanBastien,Lvl04,4,Rang03,4.5,Vastien
+Ovr067,OverDrive,,Desolation Cataclysm,Lvl05,4,Rang02,4.5,

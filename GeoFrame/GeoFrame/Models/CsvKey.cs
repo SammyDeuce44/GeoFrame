@@ -1,0 +1,38 @@
+﻿namespace GeoFrame.Models
+{
+   public enum CsvKey
+   {
+      Accessory,
+      Profile,
+      Aidulon,
+      Attributes,
+      Archetype,
+      Hand,
+      Level,
+      Range,
+      Technique,
+      Weight,
+      BodyTone,
+      FightStyle,
+      Rank,
+      Title,
+      Team,
+      WeaponGroup,
+      Armour,
+      Barrier,
+      Combat,
+      Nationality,
+      Overdrive,
+      Race,
+      Weapon,
+      MoveList,
+      ImpactArea,
+      ProfileMap,
+      MoveSetMap,
+      ProfileStats,
+      Actions,
+      Arena,
+      MediaCoverage,
+      MatchOfficial
+   }
+}

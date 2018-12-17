@@ -1,0 +1,9 @@
+[FightStyleID],[FightStyle],[Description],[ATK],[DEF],[ACC],[STA],[EVA],[SPD],[TECH],[WeaponAtk],[WeaponDef],[ShieldDef],[WeaponSkill],[EnigAtk],[EnigDef],[HP],[MP]
+Style01,Tanker,They take hits for the team by using their melee powers to taunt enemies into attacking them instead of their more fragile teammates. Tankers have defensive primary powersets and offensive secondary powersets. They do moderate damage and are very tough.,25,10,15,10,5,5,5,14,5,3,3,0,0,100,60
+Style02,Brawler,They wade into fights and deal large amounts of melee damage to groups of enemies. Brawlers have offensive primaries and defensive secondaries, the reverse of Tankers. They do high damage and are moderately tough.,15,10,10,20,10,10,10,4,3,3,5,0,0,120,90
+Style03,Enigrian,,3,3,10,7,5,5,7,5,5,5,5,25,15,75,350
+Style04,Defender,They heal and buff their teammates from a distance, keeping themselves out of range of powerful enemies. Defenders have support primaries and offensive secondaries. They do moderate damage and are excellent at buffing and healing themselves and their allies.,5,25,6,15,10,3,5,3,10,15,3,0,0,280,50
+Style05,Speedster,,10,3,15,20,10,15,10,7,3,3,4,0,0,100,60
+Style06,Weaponist,,3,3,10,5,10,10,15,16,5,7,16,0,0,90,90
+Style07,Assassin,,10,10,20,5,5,10,10,8,7,7,8,0,0,100,60
+Style08,Berserker,They launch powerful ranged attacks at enemies while remaining out of range of enemy retribution. Blasters have offensive primaries and support secondaries. They do the highest damage and have moderately effective buffs.,30,15,5,15,4,5,5,12,3,3,3,0,0,300,20

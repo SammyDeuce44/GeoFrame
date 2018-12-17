@@ -1,0 +1,8 @@
+[BarrierID],[Name],[Range],[Defence]
+Barr01,EC Field,Short,80
+Barr02,EC2 Field,Short,200
+Barr03,DR Field,Short,400
+Barr04,DR2 Field,Short,800
+Barr05,Grad Field,Medium,1500
+Barr06,Marz Field,Medium,3000
+Barr07,Gomer Field,Medium,5000
